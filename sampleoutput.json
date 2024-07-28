@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Riley Rourke, Laura Haefeli",
+      "title": "4 girls hurt during unprovoked stabbing attack in AMC movie theater near Boston; suspect arrested - CBS Boston",
+      "description": "A man stabbed four girls inside a theater at an AMC multiplex in Braintree, Massachusetts, police said.",
+      "url": "https://www.cbsnews.com/boston/news/amc-theater-massachusetts-stabbing-braintree/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/26/5ae7df66-421d-4460-8a7c-224bb3dadcdc/thumbnail/1200x630/7e1dec6936697a88f51a6c4ea7fc5d36/snapshot-25-05-2024-2005.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
+      "publishedAt": "2024-05-26T13:20:54Z",
+      "content": "BRAINTREE - A male suspect has been arrested in connection with a stabbing that wounded four girls in an AMC movie theater south of Boston Saturday, authorities said. CBS Boston has learned that the … [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WMUR Manchester"
+      },
+      "author": "Matt Leighton",
+      "title": "Police: Massachusetts man dead after crash at the Hampton Tolls - WMUR Manchester",
+      "description": "A Massachusetts man is dead after a crash at the Hampton Tolls on Saturday evening, New Hampshire State Police said.",
+      "url": "https://www.wmur.com/article/hampton-tolls-deadly-crash-new-hampshire-52524/60907026",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/scene-photo-4-fatal-mvc-hampton-05252024-jpg-6653332bb53dd.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-05-26T13:09:00Z",
+      "content": "HAMPTON, N.H. —A Massachusetts man is dead after a crash at the Hampton Tolls on Saturday evening, New Hampshire State Police said.\r\nAround 5:40 p.m., troopers responded to a reported rollover crash … [+2036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Robert Frank",
+      "title": "The 10 books the rich will be reading this summer - CNBC",
+      "description": "The list includes books on effective communication, AI, Formula One, whiskey, hidden vacation spots and the art collection of Alicia Keys and Swizz Beatz.",
+      "url": "https://www.cnbc.com/2024/05/26/summer-reading-list-jp-morgan-private-bank.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107084726-1657051726555-gettyimages-88583115-ej0000324.jpeg?v=1716497464&w=1920&h=1080",
+      "publishedAt": "2024-05-26T13:00:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high net worth investor and consumer. Sign up to receive future editions, straight… [+10283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Denise Guerra, David Pierce",
+      "title": "Red Lobster's bankruptcy goes deeper than free shrimp - Vox.com",
+      "description": "Does the restaurant's bankruptcy signal rough seas ahead for casual dining chains?",
+      "url": "https://www.vox.com/today-explained-podcast/351642/red-lobsters-mistakes-go-beyond-endless-shrimp",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/05/gettyimages-2152534874.jpg?quality=90&strip=all&crop=0,10.730717013576,100,78.538565972849",
+      "publishedAt": "2024-05-26T12:30:00Z",
+      "content": "It wasnt just the free shrimp that tanked Red Lobster. \r\nThe Orlando-based seafood chain filed for Chapter 11 bankruptcy last week citing $1 billion in debt, according to court filings. The company a… [+11401 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Dan Heching, Mitchell McCluskey",
+      "title": "Nicki Minaj apologizes to fans for postponing concert after arrest in the Netherlands - CNN",
+      "description": "Rapper Nicki Minaj apologized to fans outside of her hotel in Manchester early Sunday morning for postponing a UK show after she was stopped by Dutch authorities on allegations she was carrying drugs.",
+      "url": "https://www.cnn.com/2024/05/25/entertainment/nicki-minaj-amsterdam-police/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1517817477.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-26T12:05:00Z",
+      "content": "Rapper Nicki Minaj apologized to fans outside her hotel in Manchester early Sunday morning for postponing a UK show after she was stopped by Dutch authorities on allegations she was carrying drugs.\r\n… [+2573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston.com"
+      },
+      "author": "Tom Westerholm",
+      "title": "Jayson Tatum leads Celtics rally over Pacers in Game 3 win: 10 takeaways - Boston.com",
+      "description": "Game 4 will take place in Indiana on Monday at 8 p.m.",
+      "url": "https://www.boston.com/sports/boston-celtics/2024/05/26/jayson-tatum-leads-celtics-rally-over-pacers-in-game-3-win-10-takeaways/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2024/05/N7NYJ4GDICYIBEXAUZBZPWHOP4-6652d623242c8-768x432.jpg",
+      "publishedAt": "2024-05-26T11:48:00Z",
+      "content": "Celtics\r\nJayson Tatum led the Celtics with 36 points, 10 rebounds, and 8 assists in 44 minutes in Game 3.\r\nThe Celtics won their second dramatic victory in the last three games over the Pacers on Sat… [+8135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Hamas launches rocket attack towards Tel Aviv area - BBC.com",
+      "description": "Hamas fires rockets towards the Tel Aviv area in central Israel for the first time in  months.",
+      "url": "https://www.bbc.com/news/articles/ckrr0e3y29po",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ed74/live/f5396280-1b5a-11ef-abaf-37a7226419b1.jpg",
+      "publishedAt": "2024-05-26T11:34:21Z",
+      "content": "Hamas says it has launched a rocket attack towards the Tel Aviv area in central Israel for the first time in nearly four months.\r\nAt least eight rockets were launched from the Rafah area in southern … [+724 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Cydney Henderson",
+      "title": "How many points did Caitlin Clark score last night? Rookie held in check by Las Vegas Aces - USA TODAY",
+      "description": "The Indiana Fever couldn’t conjure any comeback magic against the Las Vegas Aces on Saturday. They lost 99-80 to the Aces in Las Vegas.",
+      "url": "https://www.usatoday.com/story/sports/wnba/2024/05/26/caitlin-clark-how-many-points-fever-loss-aces/73859785007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/05/26/USAT/73859413007-gty-2154669895.jpg?crop=2763,1554,x0,y144&width=2763&height=1554&format=pjpg&auto=webp",
+      "publishedAt": "2024-05-26T11:15:11Z",
+      "content": "The Indiana Fever couldnt conjure any comeback magic against the Las Vegas Aces on Saturday. \r\nThe Fever erased an 11-point deficit against the Los Angeles Sparks on Friday to win their first game of… [+3190 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Judith Graham",
+      "title": "Website offers free, practical advice for caregivers of dementia patients - The Washington Post",
+      "description": "A free online tool offers free training in a comprehensive approach to managing neuropsychiatric symptoms of dementia.",
+      "url": "https://www.washingtonpost.com/wellness/2024/05/26/dementia-caregivers-aggressive-repetitive-behavior/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBPQ6ROM4ZLQ6BZGARTHGBB2BE.jpg&w=1440",
+      "publishedAt": "2024-05-26T11:01:11Z",
+      "content": "Caring for older adults with dementia is stressful, especially when they become physically or verbally aggressive, engage in other inappropriate or repetitive behaviors, or refuse to let caregivers h… [+380 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "POLITICO",
+      "title": "Hill GOP urges Trump to consider an establishment running mate — maybe even Haley - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/05/26/trump-running-mate-haley-gop-00159747",
+      "urlToImage": null,
+      "publishedAt": "2024-05-26T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Cassandra Eldred",
+      "title": "Watch Trump react to getting booed at Libertarian convention - CNN",
+      "description": "Former President Donald Trump was loudly and consistently booed throughout his speech to the Libertarian convention, particularly when he asked attendees to “nominate me or at least vote for me.” CNN’s Steve Contorno reports.",
+      "url": "https://www.cnn.com/2024/05/26/politics/video/donald-trump-libertarian-convention-booed-heckled-contorno-ctmwknd-vpx",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/booed.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-26T10:53:00Z",
+      "content": "Former President Donald Trump was loudly and consistently booed throughout his speech to the Libertarian convention, particularly when he asked attendees to nominate me or at least vote for me. CNN's… [+23 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Ella Lee",
+      "title": "Trump’s hush money jury faces daunting deliberations - The Hill",
+      "description": "Twelve New Yorkers will soon be charged with a task unique to history.   They will weigh whether to convict Donald Trump, a former president and current presumptive GOP nominee, creating a scenario in which a felon could be elected to the White House.  All 12…",
+      "url": "https://thehill.com/regulation/court-battles/4683990-trumps-hush-money-jury-deliberations/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/04/AP24109483532835.jpg?w=1280",
+      "publishedAt": "2024-05-26T10:00:00Z",
+      "content": "Skip to content\r\nTwelve New Yorkers will soon be charged with a task unique to history.  \r\nThey will weigh whether to convict Donald Trump, a former president and current presumptive GOP nominee, cre… [+8506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFAA.com"
+      },
+      "author": "Pete Freedman",
+      "title": "Tornado reported in Texas Saturday: Cook County deaths confirmed | wfaa.com - WFAA.com",
+      "description": "Sheriff Ray Sappington said 60 to 80 people were injured at the AP Travel Center during the storm, and that there were confirmed fatalities in a nearby community.",
+      "url": "https://www.wfaa.com/article/news/local/confirmed-fatalities-dozens-injured-cooke-county-reported-tornado-may-25/287-ed2cca36-a8fe-46be-8297-563609938e1f",
+      "urlToImage": "https://media.wfaa.com/assets/WFAA/images/fc4de8f5-d5a9-4644-900f-8c227937efa7/20240526T134919/fc4de8f5-d5a9-4644-900f-8c227937efa7_1140x641.jpg",
+      "publishedAt": "2024-05-26T09:55:00Z",
+      "content": "VALLEY VIEW, Texas At least five people are dead, and more than 60 people injured, following a reported tornado Saturday night near Valley View, the Cooke County Sheriff has confirmed.\r\nSpeaking from… [+2712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers - CNET",
+      "description": "Memorial Day sales are in full swing, here’s everything you need to know.",
+      "url": "https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/b2252f5677e77b9e0eb7dd3829d7cc6d77ca3af6/hub/2024/05/22/d0511dd0-2137-4eaf-823f-8e6a76d2575c/memorial-day.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-05-26T09:54:00Z",
+      "content": "Memorial Day weekend is finally here, and so are the deals. The sales and discounts are everywhere, and they just keep on getting better. There are tons of products on sale across every category that… [+7142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KAIT"
+      },
+      "author": "K8 Newsdesk",
+      "title": "Thousands without power following storms - Jonesboro - KAIT",
+      "description": "Thousands of customers were left without power Sunday morning after strong storms rolled through.",
+      "url": "https://www.kait8.com/2024/05/26/thousands-without-power-following-storms/",
+      "urlToImage": "https://gray-kait-prod.cdn.arcpublishing.com/resizer/v2/KKD5ROIXRFFXVCL2ZHBPFITYZU.jpg?auth=ffa0d9c21e6d039da5a43cd49b28900cd9c9818daba8b6ab5888d06f6f465acd&width=1200&height=600&smart=true",
+      "publishedAt": "2024-05-26T09:53:00Z",
+      "content": "JONESBORO, Ark. (KAIT) - Thousands of customers were left without power Sunday morning after strong storms rolled through.\r\nAs of 8:54 a.m., the following electric providers are reporting outages:\r\n\u003C… [+736 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "UK’s Sunak promises mandatory national service for 18-year-olds if elected - Al Jazeera English",
+      "description": "Ruling Conservative Party says it will bring back national service if it wins the July 4 general election.",
+      "url": "https://www.aljazeera.com/news/2024/5/26/uks-sunak-promises-mandatory-national-service-for-18-year-olds-if-elected",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2024-04-03T154845Z_404346229_RC2BO6A9LUNK_RTRMADP_3_BRITAIN-POLITICS-POLLS-1712206946.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-05-26T09:18:13Z",
+      "content": "Eighteen-year-olds will have to perform a mandatory national service if the Conservative Party is voted back to power in the United Kingdoms July 4 election, Prime Minister Rishi Sunak has announced.… [+2861 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ROD McGUIRK",
+      "title": "UN migration agency estimates more than 670 killed in Papua New Guinea landslide - The Associated Press",
+      "description": "The International Organization for Migration has increased its estimate of the death toll from a massive landslide in Papua New Guinea to more than 670. Serhan Aktoprak, the chief of the U.N. migration agency's mission in the South Pacific island nation, said…",
+      "url": "https://apnews.com/article/papua-new-guinea-landslide-yambali-enga-642d9e8e0c913efa25ed2d67df318393",
+      "urlToImage": "https://dims.apnews.com/dims4/default/786579f/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fc3%2F0c643afcd9ad82a8b77e774c09f9%2F452447ac8232481c94cccacb9b65802d",
+      "publishedAt": "2024-05-26T07:54:00Z",
+      "content": "MELBOURNE, Australia (AP) The International Organization for Migration on Sunday increased its estimate of the death toll from a massive landslide in Papua New Guinea to more than 670 as emergency re… [+4500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Anthony D'Alessandro",
+      "title": "‘Garfield’ In Dead Heat With ‘Furiosa’ At Weakened Memorial Day Weekend Box Office – Sunday AM Update - Deadline",
+      "description": "EARLY SUNDAY AM UPDATE: The 4-day fight between Warner Bros‘ Furiosa and Alcon/Sony‘s The Garfield Movie will drag out into Monday, both titles currently in a dead heat eyeing $31M over 4-days, $25M over 3 days. There are those showing the 48-year old comic s…",
+      "url": "http://deadline.com/2024/05/box-office-garfield-furiosa-1235941424/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/Furiosa-and-Garfield.jpg?w=1024",
+      "publishedAt": "2024-05-26T07:39:00Z",
+      "content": "EARLY SUNDAY AM UPDATE: The 4-day fight between Warner Bros‘ Furiosaand Alcon/Sony‘s The Garfield Moviewill drag out into Monday, both titles currently in a dead heat eyeing $31M over 4-days, $25M ov… [+3002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pgatour.com"
+      },
+      "author": "Staff, PGATOUR.COM",
+      "title": "PGA TOUR winner Grayson Murray passes away at 30 - PGA TOUR",
+      "description": "Grayson Murray, who won his second PGA TOUR title at this year’s Sony Open in Hawaii, passed away Saturday.",
+      "url": "https://www.pgatour.com/article/news/latest/2024/05/25/grayson-murray-obituary",
+      "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2024/05/25/1694x935_ALT.jpg",
+      "publishedAt": "2024-05-26T07:35:50Z",
+      "content": "Written by Staff, PGATOUR.COM\r\nGrayson Murray, who won his second PGA TOUR title at this years Sony Open in Hawaii, passed away Saturday.\r\n\"We were devastated to learn and are heartbroken to share th… [+2835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Mary Poppins songwriter Richard Sherman dies aged 95 - BBC.com",
+      "description": "Richard Sherman composed scores for Mary Poppins and the Jungle Book, amassing Oscars and Grammy awards with his brother.",
+      "url": "https://www.bbc.com/news/articles/cz99kwy973eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/526e/live/6dad0620-1aea-11ef-a23f-031de092a3c6.jpg",
+      "publishedAt": "2024-05-26T03:12:10Z",
+      "content": "Composer Richard M Sherman, who wrote songs for Disney film classics such as Mary Poppins and Chitty Chitty Bang Bang has died aged 95 in Beverly Hills.\r\nSherman partnered with his late brother Rober… [+1983 chars]"
+    }
+  ]
+}
