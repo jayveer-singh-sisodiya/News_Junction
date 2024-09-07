@@ -6,7 +6,7 @@ import imgNewsJunction from "./News Junction (1).png";
 
 export class News extends Component {
   static defaultProps={
-    country : "in",
+    country : "us",
     pageSize: 9,
     category: "general"
   }
@@ -76,7 +76,7 @@ export class News extends Component {
   render() {
     return (
       <div className="container my-3">
-        <h2 className="text-center" style={{margin : "35px"}}>Top HEadlines</h2>
+        <h2 className="text-center">Top HEadlines</h2>
         {this.state.loading && <Spinner></Spinner>}
         <div className="row">
           {!this.state.loading && this.state.articles.map((element) => {
