@@ -1,19 +1,28 @@
 import React, { Component } from "react";
-export class NewsItem extends Component {
+
+class NewsItem extends Component {
+
+
   render() {
-    let {title, discription, imgUrl, newsUrl} = this.props
+    const { title, discription, imgUrl, newsUrl } = this.props;
+
+    // Add console log for debugging
+    console.log("NewsItem Props:", { title, discription, imgUrl, newsUrl });
+
     return (
       <div className="my-3">
         <div className="card">
-          <img src={imgUrl} className="card-img-top" alt=" " />
+          {imgUrl && <img src={imgUrl} className="card-img-top" alt={title || "News image"} />}
           <div className="card-body">
-            <h5 className="card-title">{title}...</h5>
+            <h5 className="card-title">{title || "No title available"}</h5>
             <p className="card-text">
-             {discription}...
+              {discription? discription.slice(0, 100) + "..." : discription }
             </p>
-            <a href={newsUrl} target="blank" className="btn btn-primary btn-sm">
-              Read more
-            </a>
+            {newsUrl && (
+              <a href={newsUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-sm card-footer">
+                Read more
+              </a>
+            )}
           </div>
         </div>
       </div>

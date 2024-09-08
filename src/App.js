@@ -2,11 +2,13 @@ import './App.css';
 import React, { Component } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
+import Footer from './components/Footer';
 import {
   BrowserRouter as Router,
   Routes,
   Route
 } from "react-router-dom";
+import About from './components/About';
 export default class App extends Component {
   render() {
     return (
@@ -21,8 +23,9 @@ export default class App extends Component {
           <Route exact path="/science" element={<News key="science" pageSize={9} country="us" category="science" />} />
           <Route exact path="/sports" element={<News key="sports" pageSize={9} country="us" category="sports" />} />
           <Route exact path="/technology" element={<News key="technology" pageSize={9} country="us" category="technology" />} />
-          {/* <Route path="/about" element={<About />} />  */}
+          <Route path="/about" element={<About />} /> 
         </Routes>
+        <Footer />
         </Router>
       </div>
     ) 
